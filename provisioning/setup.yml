@@ -1,0 +1,5 @@
+- hosts: all
+  roles:
+    - mutillidae
+  become: yes
+  become_method: sudo

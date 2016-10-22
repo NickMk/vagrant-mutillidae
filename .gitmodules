@@ -1,0 +1,3 @@
+[submodule "provisioning/roles/mutillidae"]
+	path = provisioning/roles/mutillidae
+	url = https://github.com/NickMk/ansible-role-mutillidae2
